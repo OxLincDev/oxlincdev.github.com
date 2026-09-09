@@ -2,11 +2,16 @@
   {
     "id": 1,
     "slug": "landing",
-    "price": 30000
+    "price": 300
   },
   {
     "id": 2,
     "slug": "landing2",
-    "price": 50000
+    "price": 500
+  },
+  {
+    "id": 3,
+    "slug": "agreement",
+    "price": 300
   }
 ]

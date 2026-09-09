@@ -1,0 +1,1 @@
+import{It as e,L as t,Q as n,d as r,g as i}from"./Cd2bdLLy.js";import{t as a}from"#entry";import{t as o}from"./tmzsHURz.js";var s={};function c(a,s){return t(),r(o,null,{default:n(()=>[i(e(a.$t(`welcome`)),1)]),_:1})}var l=a(s,[[`render`,c]]);export{l as default};
